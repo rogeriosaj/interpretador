@@ -1,0 +1,14 @@
+/home/rogeriosaj/Documents/uenp/interpretador/bin/Debug/net8.0/interpretador
+/home/rogeriosaj/Documents/uenp/interpretador/bin/Debug/net8.0/interpretador.deps.json
+/home/rogeriosaj/Documents/uenp/interpretador/bin/Debug/net8.0/interpretador.runtimeconfig.json
+/home/rogeriosaj/Documents/uenp/interpretador/bin/Debug/net8.0/interpretador.dll
+/home/rogeriosaj/Documents/uenp/interpretador/bin/Debug/net8.0/interpretador.pdb
+/home/rogeriosaj/Documents/uenp/interpretador/obj/Debug/net8.0/interpretador.GeneratedMSBuildEditorConfig.editorconfig
+/home/rogeriosaj/Documents/uenp/interpretador/obj/Debug/net8.0/interpretador.AssemblyInfoInputs.cache
+/home/rogeriosaj/Documents/uenp/interpretador/obj/Debug/net8.0/interpretador.AssemblyInfo.cs
+/home/rogeriosaj/Documents/uenp/interpretador/obj/Debug/net8.0/interpretador.csproj.CoreCompileInputs.cache
+/home/rogeriosaj/Documents/uenp/interpretador/obj/Debug/net8.0/interpretador.dll
+/home/rogeriosaj/Documents/uenp/interpretador/obj/Debug/net8.0/refint/interpretador.dll
+/home/rogeriosaj/Documents/uenp/interpretador/obj/Debug/net8.0/interpretador.pdb
+/home/rogeriosaj/Documents/uenp/interpretador/obj/Debug/net8.0/interpretador.genruntimeconfig.cache
+/home/rogeriosaj/Documents/uenp/interpretador/obj/Debug/net8.0/ref/interpretador.dll

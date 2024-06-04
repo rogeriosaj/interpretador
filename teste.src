@@ -1,0 +1,35 @@
+PRINT 2+2
+x = 4+4
+PRINT x+y
+PRINT y
+
+PARSER ====
+
+Gramatica
+cmd: atribuicao
+    |expressao
+
+atribuicao : | VAR '=' expressao
+
+expressao : | term rest
+
+rest :  |'+' expressao
+        |'-' expressao
+        | _VAZIO_
+
+term :  | NUM
+        | VAR
+        | '(' expressao ')'
+
+LEXER ====
+
+VAR, 1 = variavel (uma sequencia de letras minusculas), atributo -> indice da tabela de simbolos
+
+NUM, 99 = numero natural (0........), atributo -> valor do numero
+
+EQ '='
+SUM '+'
+SUB '-'
+OPEN '('
+CLOSE ')'
+PRINT 'print'
