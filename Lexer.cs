@@ -1,6 +1,6 @@
 using System;
 
-namespace compi
+namespace interpretador
 {
     // Enumeração dos tipos de tokens que podem ser gerados pelo Lexer
     public enum TokenType

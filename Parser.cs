@@ -1,6 +1,6 @@
 using System;
 
-namespace compi
+namespace interpretador
 {
     // Classe responsável por analisar e interpretar tokens gerados pelo Lexer
     public class Parser

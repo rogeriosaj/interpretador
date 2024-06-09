@@ -1,7 +1,7 @@
 using System;
 using System.Collections.Generic;
 
-namespace compi
+namespace interpretador
 {
     // Classe SymbolTable para armazenar variáveis e seus valores
     public class SymbolTable

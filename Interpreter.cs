@@ -1,6 +1,6 @@
 using System;
 
-namespace compi
+namespace interpretador
 {
     // Classe responsável por interpretar e executar comandos
     public class Interpreter

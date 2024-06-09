@@ -1,4 +1,4 @@
-﻿﻿namespace compi
+﻿﻿namespace interpretador
 {
     // Classe principal do programa
     class Program
